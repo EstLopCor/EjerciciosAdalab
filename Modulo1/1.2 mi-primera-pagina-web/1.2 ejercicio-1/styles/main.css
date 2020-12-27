@@ -16,3 +16,7 @@ th {
   background-color: gray;
   color: white;
 }
+td:hover {
+  background-color: white;
+  color: gray;
+}
