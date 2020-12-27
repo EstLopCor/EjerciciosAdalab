@@ -1,0 +1,19 @@
+.a {
+  display: block;
+  width: 100ch;
+  color: blueviolet;
+}
+.b {
+  display: inline;
+  width: 100ch;
+  color: brown;
+}
+.c {
+  display: inline-block;
+  width: 100ch;
+  color: aqua;
+}
+.d {
+  display: none;
+  width: 100ch;
+}

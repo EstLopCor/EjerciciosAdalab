@@ -1,0 +1,18 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: beige;
+  margin: 10%;
+}
+h1 {
+  color: blue;
+  text-align: center;
+}
+td {
+  text-align: center;
+  border: dotted;
+  background-color: rgb(231, 229, 229);
+}
+th {
+  background-color: gray;
+  color: white;
+}
