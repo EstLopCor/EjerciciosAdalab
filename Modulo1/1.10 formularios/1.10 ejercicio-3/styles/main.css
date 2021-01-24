@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputn {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 8px;
+  box-sizing: border-box;
+}
+.input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 8px;
+  box-sizing: border-box;
+}
+.name {
+  display: flex;
+  flex-direction: row;
+}
