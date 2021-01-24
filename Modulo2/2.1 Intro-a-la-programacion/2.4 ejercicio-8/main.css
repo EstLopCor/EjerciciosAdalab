@@ -1,0 +1,25 @@
+.button1 {
+  padding: 10px 25px;
+  border: 2px solid blueviolet;
+  background-color: violet;
+  border-radius: 22.5px;
+  font-size: 18px;
+  font-family: fantasy;
+}
+.button2 {
+  padding: 10px 25px;
+  border: 2px solid blueviolet;
+  background-color: violet;
+  border-radius: 22.5px;
+  font-size: 18px;
+  font-family: fantasy;
+}
+.hidden {
+  padding: 10px 25px;
+  border: 2px solid gray;
+  background-color: lightgray;
+  border-radius: 22.5px;
+  font-size: 18px;
+  font-family: fantasy;
+  color: antiquewhite;
+}
